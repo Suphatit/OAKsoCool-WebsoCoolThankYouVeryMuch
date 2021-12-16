@@ -3,6 +3,15 @@ body {
   color: #545454;
 }
 
+.divcl{
+  padding: 10px 12px;
+  background-color: #3cdbb6;
+}
+
+#namecl{
+  color: #084133;
+}
+
 hr {
   border-style: dotted;
   border-top: none;
